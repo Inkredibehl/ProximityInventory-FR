@@ -1,5 +1,5 @@
 Sandbox_FR = {
 	Sandbox_ProxInv = "Proximity Inventory",
 	Sandbox_ZombieOnly = "Mode pour les Zombies uniquement",
-	Sandbox_ZombieOnly_tooltip = "Activer ceci si vous voulez que le l'Inventaire de Proximité marche uniquement avec les zombies",
+	Sandbox_ZombieOnly_tooltip = "Activer ceci si vous voulez que l'Inventaire de ProximitÃ© marche uniquement avec les zombies",
 }
